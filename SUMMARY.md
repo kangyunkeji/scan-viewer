@@ -1,7 +1,6 @@
 # Summary
 
 * [1  相关概述](1.md)
-  * [1.1  简介](1/11-jian-jie.md)
   * [1.2  功能](1/12-gong-neng.md)
 * [2  支持环境](chapter1.md)
 * [3  操作说明](README.md)
